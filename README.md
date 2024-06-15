@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/isah-samuel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://Drealdumore.github.io">
+  <a href="https://saint-ts.vercel.app">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
 </div>
