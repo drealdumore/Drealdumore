@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **C##, Supabase, AWS**
+ 🌱 I’m currently learning **C#, Supabase, AWS**
 
 💬 Ask me about **Node.js, Angular, Firebase... or anything [here](https://github.com/Drealdumore/Drealdumore/issues)**
 
-⚡ Fun fact **Did you know? The first computer "bug" was an actual bug! In 1947, a team of computer scientists at Harvard discovered that a moth had shorted out their computer, leading to the term "debugging" that we use today.**
+⚡**Did you know? The first computer "bug" was an actual bug! In 1947, a team of computer scientists at Harvard discovered that a moth had shorted out their computer, leading to the term "debugging" that we use today.**
 <!-- ⚡ Fun fact **The first computer "bug" was an actual bug!** -->
 
  </div>
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,react,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,vscode,github,figma,git" /><br>
 </div>
 
 <br/>
