@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **C#, Supabase, AWS**
+ 🌱 I’m currently learning **PostgreSQL, Supabase, AWS**
 
 💬 Ask me about **Node.js, Angular, Firebase... or anything [here](https://github.com/Drealdumore/Drealdumore/issues)**
 
